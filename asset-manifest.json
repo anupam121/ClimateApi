@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weatheranupam/static/css/main.ac7f6ebd.css",
+    "main.js": "/weatheranupam/static/js/main.1037aa43.js",
+    "static/js/787.4fcd6212.chunk.js": "/weatheranupam/static/js/787.4fcd6212.chunk.js",
+    "static/media/wallp.jpg": "/weatheranupam/static/media/wallp.5716f1e85a1df2ae409a.jpg",
+    "static/media/cardpic.jpg": "/weatheranupam/static/media/cardpic.51ef6960e9db4bfe3527.jpg",
+    "index.html": "/weatheranupam/index.html",
+    "main.ac7f6ebd.css.map": "/weatheranupam/static/css/main.ac7f6ebd.css.map",
+    "main.1037aa43.js.map": "/weatheranupam/static/js/main.1037aa43.js.map",
+    "787.4fcd6212.chunk.js.map": "/weatheranupam/static/js/787.4fcd6212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac7f6ebd.css",
+    "static/js/main.1037aa43.js"
+  ]
+}
