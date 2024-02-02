@@ -2,10 +2,12 @@
 
 This is a simple weather forecast app built with React.
 
+# ScreenShot
+![Screenshot 2024-02-02 232346](https://github.com/anupam121/ClimateApi/assets/84002267/18a43956-47ee-4027-9420-ad3ff8ee5cd8)
+
 # Deployment link
     
 https://anupam121.github.io/ClimateApi/
-
 
 ## Getting Started
 
